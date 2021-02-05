@@ -1,7 +1,7 @@
 # Anomaly_Detection
-To detect the fraud credit card  transaction using unsupervised learning 
-Kaggle Notebook: 
-Medium Post : https://sumsaw7.medium.com/credit-card-fraud-detection-using-un-supervised-learning-8f3cfd6be765
+To detect the fraud credit card  transaction using unsupervised learning <br>
+Kaggle Notebook: <br>
+Medium Post : https://sumsaw7.medium.com/credit-card-fraud-detection-using-un-supervised-learning-8f3cfd6be765<br>
 
 ### Motivation 
 
