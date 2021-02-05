@@ -39,7 +39,7 @@ I am going to detect the fraud points in the dataset using two unsupervised lear
 - Was able to gain knowlege on Isolation forest ,Gaussian Mixture and was also able to quantify it <br>
 
 # Final Submission 
-- I recommend for Isolation forest out the two method tried for better score and ease of training <br>
+- I recommend Isolation forest model out the two method tried for better score and ease of training <br>
 
 # Additional Improvements 
 - We can try one class SVM and DBSCAM method to explore more 
